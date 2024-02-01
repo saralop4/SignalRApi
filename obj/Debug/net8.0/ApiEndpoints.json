@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SignalRApi.Controllers.ImcApiController",
+    "Method": "AddImc",
+    "RelativePath": "api/ImcApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "SignalRApiDAL.Models.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
